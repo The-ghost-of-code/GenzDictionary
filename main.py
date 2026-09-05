@@ -1,4 +1,5 @@
 import json
+import sys
 hello = """This is an open-source program 😀
 It is made for genz disctionary
 Bugs should be reported to me (The-Ghost-of-code)"""

@@ -14,15 +14,21 @@
         },
         {
             "name": "bá khí",
-            "meaning":  "Aura",
+            "meaning": "Aura",
             "example": "Bá Khí Tối thượng (Ultimate Aura)",
             "pronu": "/ba˧˦ xi˧˦/"
         },
         {
             "name": "hào quang",
-            "meaning":  "Aura",
+            "meaning": "Aura",
             "example": "Canh Tác Hào Quang (Aura Farming)",
             "pronu": "/haw˨˩ kwaŋ˧˧/"
         },
+        {
+            "name": "6ma (Xích Ma",
+            "meaning": "Thể hiện những việc mà một người làm nghĩ là ngầu (Tuff/Sigma) nhưng trên thực tế là ngu (6 -> Six -> Sĩ)",
+            "example": null,
+            "pronu": "sïk˧˥ ma˧ "
+        }
     ]
 }
