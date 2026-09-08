@@ -2,7 +2,6 @@ import json
 import sys
 import os
 
-#THE CODE IS FUCKING SELF-DOCUMENTING.
 word = None
 meaning = None
 example = None
@@ -28,7 +27,7 @@ if "--path" in sys.argv:
     index = sys.argv.index("--path")
     filename = str(sys.argv[index + 1])
 
-def add_the_fucking_word(word, meaning, example, pronunciation, filename):
+def add_the_word(word, meaning, example, pronunciation, filename):
     if os.path.exists(filename):
         with open(filename, "r", encoding="utf-8") as f:
             data = json.load(f)
@@ -50,4 +49,4 @@ def add_the_fucking_word(word, meaning, example, pronunciation, filename):
     print(f"Successfully added: {word}")
 
 if word:
-    add_the_fucking_word(word, meaning, example, pronunciation, filename)
+    add_the_word(word, meaning, example, pronunciation, filename)
