@@ -4,13 +4,31 @@
             "name": "êi",
             "meaning": "chào hoặc kêu gọi sự chú ý từ người khác (ko lịch sự)",
             "example": "êi, giúp tao cái",
-            "pronu": "/ê-i/"
+            "pronu": "/êi/"
         },
         {
             "name": "khê",
             "meaning": "cơm bị cháy (cũ), khó hoặc cực khó (mới, khẩu ngữ cho khó)",
             "example": "ca này khê, vấn đề này khê",
-            "pronu": "/khê/"
+            "pronu": "/xe˧˧/"
+        },
+        {
+            "name": "bá khí",
+            "meaning": "Aura",
+            "example": "Bá Khí Tối thượng (Ultimate Aura)",
+            "pronu": "/ba˧˦ xi˧˦/"
+        },
+        {
+            "name": "hào quang",
+            "meaning": "Aura",
+            "example": "Canh Tác Hào Quang (Aura Farming)",
+            "pronu": "/haw˨˩ kwaŋ˧˧/"
+        },
+        {
+            "name": "6ma (Xích Ma",
+            "meaning": "Thể hiện những việc mà một người làm nghĩ là ngầu (Tuff/Sigma) nhưng trên thực tế là ngu (6 -> Six -> Sĩ)",
+            "example": null,
+            "pronu": "sïk˧˥ ma˧ "
         }
     ]
 }
