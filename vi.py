@@ -4,10 +4,9 @@ with open("dict.json", "r", encoding="utf-8") as vi:
 
 
 while True:
-    ch = input("điền từ hoặc câu (q để thoát): ").strip().lower()
+    ch = input("điền từ (q để thoát): ").strip().lower()
     if ch == 'q':
         exit()
-
     found = False
 
     for word in data["vi"]:
